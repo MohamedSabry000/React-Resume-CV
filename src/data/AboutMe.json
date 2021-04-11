@@ -1,0 +1,135 @@
+{
+    "id": 1,
+    "personalInfo": {
+        "appr": "I'm a Freelance Web Designer & Developer based in Madrid, Spain.<br /> I have serious passion for UI effects, animations and creating intuitive, with over a decade of experience.",
+        "data":{
+            "left":[
+                ["First Name", "Mohamed"],
+                ["Last Name", "Sabry"],
+                ["Date Of Birth", "29 Sep 1997"],
+                ["Nationality", "Egyption"],
+                ["Freelance", "Available"]
+            ],
+            "right": [
+                ["Phone", "+20 10 91 83 75 81"],
+                ["Address", "Tukh, Qalyubia, Egypt"],
+                ["E-Mail", "www.mohamedfadah123@gmail.com"],
+                ["Spoken Langages", "Arabic - English"],
+                ["Site", "#"]
+            ]
+        },
+        "resumeLink":"#"
+    },
+    "resumeContent":[
+        [
+            "fa fa-briefcase",
+            "Experience",
+            [
+                {
+                    "upperCase":{
+                        "bold": "Web Designer - ",
+                        "normal": "Envato"
+                    },
+                    "date": " 2015 - 2018",
+                    "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper"
+                },
+                {
+                    "upperCase":{
+                        "bold": "Web Developer - ",
+                        "normal": "Google"
+                    },
+                    "date": " 2011 - 2015",
+                    "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper"
+                },
+                {
+                    "upperCase":{
+                        "bold": "Community Manager - ",
+                        "normal": "Adobe"
+                    },
+                    "date": " 2007 - 2011",
+                    "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper"
+                }
+            ]
+            
+        ],
+        [
+            "fa fa-graduation-cap",
+            "Education",
+            [
+                {
+                    "upperCase":{
+                        "bold": "Engineering Diploma - ",
+                        "normal": "Oxford University"
+                    },
+                    "date": " 2015 - 2018",
+                    "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper"
+                },
+                {
+                    "upperCase":{
+                        "bold": "",
+                        "normal": ""
+                    },
+                    "date": "",
+                    "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper"
+                },
+                {
+                    "upperCase":{
+                        "bold": "",
+                        "normal": ""
+                    },
+                    "date": "",
+                    "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper"
+                }
+            ]
+            
+        ],
+        [
+            "fa fa-star",
+            "Skills",
+            [
+                {
+                    "upperCase":{
+                        "bold": "",
+                        "normal": ""
+                    },
+                    "date": "",
+                    "data": ""
+                },
+                {
+                    "upperCase":{
+                        "bold": "",
+                        "normal": ""
+                    },
+                    "date": "",
+                    "data": ""
+                },
+                {
+                    "upperCase":{
+                        "bold": "",
+                        "normal": ""
+                    },
+                    "date": "",
+                    "data": ""
+                }
+            ]
+            
+        ] 
+    ],
+    "factBadges":[
+        {
+            "fa":"fa fa-suitcase",
+            "num": "7+",
+            "title": "Years Experience"
+        },
+        {
+            "fa":"fa fa-check-square",
+            "num": "89+",
+            "title": "Done Projects"
+        },
+        {
+            "fa":"fa fa-heart",
+            "num": "77+",
+            "title": "Happy customers"
+        }
+    ] 
+}
